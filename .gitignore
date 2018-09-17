@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/ProCore
+Assets/Rewired
+Assets/Scenes
 
 # Visual Studio cache directory
 .vs/
